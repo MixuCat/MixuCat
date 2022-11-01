@@ -1,7 +1,10 @@
-- 👋 Hi, I’m MixuCat!
-- 👀 I’m interested in Tech & Virtual Reality
-- 🌱 I’m currently learning Game Development
+- 👋 Heyo, I’m MixuCat!
+- 👀 I love Tech & Virtual Reality, I use a Quest 2 with Link!
+- 🌱 I’m currently learning Game Development 
 - 😸 I also have a cat named Bruno
+
+- 💻 SPECS
+- Ryzen 7 4800H, 16GB RAM, RTX 3050
 
 
 <!---
